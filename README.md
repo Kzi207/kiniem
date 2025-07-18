@@ -1,7 +1,5 @@
 Web App Lưu Giữ Kỷ Niệm Tình Yêu
 
-https://via.placeholder.com/800x400?text=K%E1%BB%B7+Ni%E1%BB%87m+C%E1%BB%A7a+Ch%C3%BAng+Ta+Demo
-
 📌 Giới Thiệu
 "Kỷ Niệm Của Chúng Ta" là một ứng dụng web cá nhân giúp bạn:
 
